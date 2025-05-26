@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Nevercloud
 
-First, run the development server:
+Welcome to neverlcoud.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This is just a site/blog/info whatever you want to call it about my explorations
+in to the world of de-clouding my life!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Declouding?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I'm not sure if it's a real term but it made sense to me, and it is was it says: removing clouds from your life!
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Why?
 
-## Learn More
+Over the years i've grown more aware of the importance of privacy and also the fact that a lot of our data is 
+harvested and monetised. Do i make anyh money off of my own data? It appears not. And i don't remember anyone,
+ever, in a human and understandable way explaining that this is the case.
 
-To learn more about Next.js, take a look at the following resources:
+# How?
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+At the moment i've started out with my own server, where i host this site and use jellyfin for movies and tv-shows.
+I realise i'm not even close to being declouded, but slowly and surely i'll get there!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# Disclaimer
 
-## Deploy on Vercel
+I realise not all cloud services are evil, but i want to own as much of my own data as possible, so for the sake of
+some cofort and ease and to counter total isolation i will have to compromise with using some cloud services, as 
+it seems at the moment.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
